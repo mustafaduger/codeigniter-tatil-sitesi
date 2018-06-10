@@ -1,0 +1,9 @@
+genel resim ebatları : 
+409*260
+94*73
+285*250
+280*230
+750*354
+
+current-menu-item current_page_item
+
